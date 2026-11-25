@@ -1,0 +1,1429 @@
+idade,pais_residencia,trabalho_remoto,autonomo,historico_familiar,transtorno_passado,transtorno_atual,diagnostico_profissional,carreira_prejudicada,colegas_visao_negativa,buscou_tratamento
+39,United Kingdom,Sometimes,No,No,Yes,No,Yes,Maybe,"No, I don't think they would",No
+29,United States of America,Never,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+38,United Kingdom,Always,No,No,Maybe,No,No,Maybe,Maybe,Yes
+43,United Kingdom,Sometimes,Yes,No,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+43,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+42,United Kingdom,Sometimes,No,No,No,Yes,No,"Yes, I think it would",Maybe,Yes
+30,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+37,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+44,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, they do",Yes
+30,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+28,United States of America,Never,No,I don't know,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+34,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Always,No,Yes,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+44,Canada,Sometimes,No,No,Maybe,Maybe,No,Maybe,"Yes, I think they would",No
+35,United States of America,Always,No,Yes,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+52,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,Canada,Always,No,Yes,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+34,United Kingdom,Never,No,No,No,No,No,Maybe,Maybe,No
+25,United States of America,Always,Yes,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Sometimes,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+35,United States of America,Never,No,No,No,No,No,Maybe,Maybe,No
+25,Germany,Sometimes,No,I don't know,Maybe,No,No,Maybe,"No, I don't think they would",No
+33,Canada,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+38,United States of America,Sometimes,Yes,No,No,No,No,Maybe,"No, I don't think they would",No
+42,Germany,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+27,Netherlands,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,Germany,Never,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+34,United Kingdom,Never,No,Yes,Yes,Maybe,No,"Yes, I think it would","No, I don't think they would",Yes
+32,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,Germany,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+30,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+31,United States of America,Never,No,I don't know,Yes,Maybe,No,Maybe,Maybe,No
+37,Czech Republic,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+36,United Kingdom,Sometimes,No,No,Yes,Yes,No,"No, I don't think it would","No, I don't think they would",No
+33,Germany,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+44,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United Kingdom,Never,No,No,No,Maybe,No,Maybe,"Yes, I think they would",No
+29,United Kingdom,Sometimes,No,Yes,Yes,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+44,Canada,Always,No,I don't know,No,No,No,Maybe,Maybe,No
+34,United States of America,Sometimes,Yes,Yes,Yes,Yes,No,"Yes, I think it would","No, I don't think they would",No
+40,United States of America,Always,No,I don't know,Yes,Yes,No,"No, I don't think it would","No, I don't think they would",Yes
+46,Netherlands,Never,No,Yes,Yes,Yes,No,Maybe,Maybe,Yes
+28,Lithuania,Sometimes,Yes,Yes,Yes,Yes,No,"Yes, I think it would","No, I don't think they would",Yes
+41,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+45,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+43,United Kingdom,Sometimes,Yes,Yes,Yes,Maybe,Yes,"No, I don't think it would",Maybe,Yes
+37,United States of America,Always,No,No,Maybe,Yes,Yes,Maybe,Maybe,Yes
+37,Australia,Never,No,I don't know,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+27,United States of America,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+31,Netherlands,Sometimes,Yes,No,No,No,No,Maybe,"No, I don't think they would",No
+36,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+34,United States of America,Always,No,No,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+31,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+30,United States of America,Never,No,Yes,Maybe,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+32,Canada,Never,No,Yes,Maybe,Maybe,No,"Yes, I think it would",Maybe,No
+40,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,"No, I don't think it would",Maybe,No
+40,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+41,France,Sometimes,No,I don't know,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+27,United Kingdom,Never,No,No,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+29,Venezuela,Always,Yes,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+38,United Kingdom,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+35,Netherlands,Sometimes,Yes,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+35,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+28,United States of America,Never,No,Yes,Maybe,No,No,"Yes, I think it would",Maybe,No
+27,Netherlands,Sometimes,No,I don't know,Yes,Maybe,Yes,Maybe,"Yes, I think they would",Yes
+39,Poland,Sometimes,Yes,No,Yes,No,No,Maybe,"No, I don't think they would",Yes
+28,Belgium,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+46,United States of America,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+40,Netherlands,Sometimes,No,No,Yes,No,Yes,Maybe,"No, I don't think they would",Yes
+37,United States of America,Always,No,Yes,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+41,Netherlands,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+19,France,Never,Yes,I don't know,Yes,Yes,No,"No, I don't think it would","Yes, I think they would",No
+38,Netherlands,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+33,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+33,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+21,United Kingdom,Never,No,No,No,No,No,Maybe,Maybe,No
+36,Brazil,Never,No,Yes,Yes,Yes,No,Maybe,Maybe,No
+39,Canada,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+35,United States of America,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+36,France,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+45,United States of America,Never,No,No,Maybe,Maybe,No,Maybe,Maybe,No
+41,Canada,Never,No,No,Maybe,Maybe,No,"Yes, I think it would",Maybe,No
+35,United Kingdom,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+30,United States of America,Sometimes,Yes,I don't know,Maybe,Maybe,Yes,"No, I don't think it would","No, they do not",Yes
+24,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+33,Brazil,Never,No,I don't know,Yes,No,Yes,Maybe,Maybe,Yes
+35,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United Kingdom,Sometimes,No,No,No,Yes,No,Maybe,Maybe,No
+29,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+36,United States of America,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+46,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+39,Netherlands,Sometimes,Yes,Yes,Yes,Yes,No,"Yes, I think it would",Maybe,No
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+40,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+23,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+30,United States of America,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+28,United States of America,Sometimes,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+27,Netherlands,Never,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+31,United States of America,Always,Yes,No,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+39,United States of America,Never,No,Yes,Yes,Maybe,No,Maybe,Maybe,Yes
+34,United States of America,Always,No,Yes,No,Yes,Yes,Maybe,Maybe,Yes
+30,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+30,Denmark,Never,Yes,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+31,United States of America,Sometimes,No,No,No,Maybe,No,Maybe,Maybe,No
+30,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+32,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would",Maybe,No
+22,Czech Republic,Sometimes,Yes,Yes,No,No,No,"Yes, it has","Yes, I think they would",Yes
+37,Belgium,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+51,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, it has not",Maybe,Yes
+41,United States of America,Sometimes,No,Yes,Yes,No,Yes,Maybe,"No, I don't think they would",Yes
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+43,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United Kingdom,Sometimes,No,Yes,No,Maybe,No,Maybe,"No, I don't think they would",No
+24,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+30,Netherlands,Sometimes,Yes,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Germany,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+48,United States of America,Sometimes,Yes,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+55,United States of America,Always,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+36,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,Yes
+38,Netherlands,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+34,France,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+44,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+45,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+45,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+34,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+37,United States of America,Sometimes,No,Yes,No,No,No,"No, I don't think it would","No, I don't think they would",No
+38,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+31,United States of America,Sometimes,No,No,No,Maybe,Yes,Maybe,Maybe,Yes
+33,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+29,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+35,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+42,Canada,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Sometimes,No,I don't know,No,No,No,"Yes, I think it would",Maybe,No
+36,United States of America,Always,No,Yes,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+21,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+34,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+40,Germany,Always,Yes,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+35,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+44,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,Yes
+35,Canada,Sometimes,No,Yes,Yes,No,Yes,"No, I don't think it would",Maybe,No
+45,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+42,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+40,United States of America,Always,Yes,I don't know,Yes,Yes,Yes,"Yes, it has",Maybe,No
+50,United States of America,Always,Yes,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+36,United States of America,Always,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+31,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United States of America,Always,No,I don't know,Maybe,No,No,"Yes, I think it would","No, I don't think they would",No
+37,United States of America,Never,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+31,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+42,Canada,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+25,United States of America,Sometimes,No,No,Maybe,No,No,"Yes, I think it would",Maybe,No
+27,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+41,United States of America,Never,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+41,United States of America,Sometimes,No,No,Yes,Yes,No,"Yes, I think it would",Maybe,No
+55,United States of America,Never,No,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+21,United States of America,Never,No,No,Yes,Yes,No,"Yes, I think it would",Maybe,No
+37,Netherlands,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+34,Netherlands,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+40,United Kingdom,Never,No,I don't know,No,Maybe,No,Maybe,Maybe,No
+25,Netherlands,Always,Yes,I don't know,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+36,Germany,Sometimes,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+25,Germany,Never,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+35,United States of America,Always,No,No,No,No,No,Maybe,Maybe,No
+37,United States of America,Always,No,I don't know,Maybe,No,No,"Yes, I think it would",Maybe,Yes
+45,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+26,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+23,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+22,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+46,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+31,United Kingdom,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+27,United States of America,Always,No,Yes,Maybe,Yes,Yes,"No, it has not","No, they do not",Yes
+37,United Kingdom,Sometimes,No,I don't know,Maybe,No,No,Maybe,"No, I don't think they would",No
+37,United Kingdom,Never,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+26,Netherlands,Sometimes,No,No,Yes,Maybe,Yes,"Yes, I think it would","No, I don't think they would",Yes
+23,Netherlands,Never,No,Yes,No,No,No,Maybe,"No, I don't think they would",Yes
+40,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+29,Denmark,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+37,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+34,United States of America,Never,No,Yes,Maybe,No,No,Maybe,Maybe,Yes
+40,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+39,United States of America,Sometimes,No,No,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+28,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Belgium,Sometimes,Yes,No,Maybe,Maybe,No,Maybe,"Yes, I think they would",No
+27,Germany,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+48,United Kingdom,Sometimes,Yes,No,Maybe,Maybe,No,Maybe,Maybe,Yes
+49,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+35,United Kingdom,Never,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+35,Sweden,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+38,United Kingdom,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+32,United States of America,Sometimes,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+42,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Always,No,Yes,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+35,United Kingdom,Always,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+24,Russia,Sometimes,No,No,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+29,United States of America,Always,No,No,Yes,Maybe,No,Maybe,Maybe,Yes
+24,United Kingdom,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+30,Sweden,Always,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Always,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+44,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+37,United Kingdom,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+28,Germany,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+42,United States of America,Always,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+30,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","No, they do not",Yes
+36,Russia,Sometimes,No,No,Maybe,Maybe,No,"Yes, I think it would","No, I don't think they would",Yes
+30,Russia,Sometimes,No,No,No,No,No,"Yes, it has","No, I don't think they would",No
+29,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+25,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+25,Belgium,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+24,Russia,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+25,Russia,Sometimes,No,No,Yes,Yes,No,"Yes, it has","No, I don't think they would",Yes
+31,Denmark,Never,No,I don't know,Yes,Yes,Yes,"No, it has not","No, they do not",No
+37,Canada,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+35,United States of America,Never,No,No,No,No,No,"No, I don't think it would",Maybe,No
+26,Spain,Sometimes,No,Yes,Yes,No,Yes,"Yes, it has","No, I don't think they would",Yes
+31,United Kingdom,Always,No,I don't know,No,No,No,Maybe,Maybe,No
+29,United States of America,Always,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",Yes
+33,France,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",No
+30,India,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+30,United States of America,Sometimes,No,I don't know,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+25,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,United States of America,Never,No,Yes,Yes,No,No,Maybe,Maybe,Yes
+26,Germany,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+38,United States of America,Always,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+49,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+34,France,Sometimes,Yes,I don't know,No,Maybe,No,Maybe,Maybe,No
+31,Russia,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Sometimes,Yes,Yes,Yes,Maybe,Yes,Maybe,"Yes, I think they would",Yes
+31,Germany,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+34,Germany,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+28,United States of America,Sometimes,No,No,Yes,No,No,Maybe,"No, I don't think they would",Yes
+35,United Kingdom,Always,Yes,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,Germany,Always,No,I don't know,No,No,No,Maybe,Maybe,No
+33,Germany,Sometimes,Yes,No,Maybe,No,No,Maybe,Maybe,No
+37,United States of America,Sometimes,No,I don't know,Maybe,Maybe,Yes,Maybe,Maybe,Yes
+45,United Kingdom,Sometimes,No,No,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+31,United States of America,Always,No,Yes,Yes,Yes,Yes,"No, it has not",Maybe,Yes
+36,United States of America,Never,No,No,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+30,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+45,Canada,Always,No,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+29,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+36,Mexico,Sometimes,No,Yes,No,No,No,"Yes, I think it would","No, I don't think they would",No
+28,United States of America,Never,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+36,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+37,United States of America,Sometimes,No,Yes,Maybe,Maybe,Yes,Maybe,Maybe,Yes
+29,United States of America,Sometimes,No,Yes,Yes,Maybe,No,"No, I don't think it would","No, I don't think they would",Yes
+25,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+34,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+37,Canada,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,Yes
+40,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Always,No,No,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+38,United Kingdom,Never,No,No,Maybe,No,No,"Yes, I think it would",Maybe,No
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+28,United States of America,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",Yes
+27,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+28,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+26,Germany,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+40,United States of America,Sometimes,No,Yes,Yes,No,No,Maybe,"No, I don't think they would",Yes
+42,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+36,United States of America,Never,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+44,United Kingdom,Never,Yes,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+24,United States of America,Never,No,I don't know,Maybe,Yes,Yes,Maybe,Maybe,Yes
+44,United States of America,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+31,United States of America,Always,No,No,No,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+49,United States of America,Sometimes,Yes,Yes,Yes,Maybe,No,"Yes, it has","Yes, they do",Yes
+27,United States of America,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+27,United States of America,Always,No,Yes,Maybe,No,No,"Yes, I think it would",Maybe,Yes
+28,United States of America,Sometimes,No,No,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+20,United States of America,Never,No,Yes,Yes,Maybe,Yes,"Yes, it has","Yes, I think they would",Yes
+41,Germany,Always,Yes,Yes,No,No,No,Maybe,Maybe,No
+38,Australia,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United States of America,Never,No,Yes,Yes,Yes,No,Maybe,"Yes, I think they would",No
+44,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+31,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,Maybe,No
+54,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,Germany,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+29,Netherlands,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+26,United Kingdom,Sometimes,No,I don't know,Yes,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+26,United Kingdom,Never,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+34,United Kingdom,Sometimes,Yes,I don't know,Maybe,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+38,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+34,United Kingdom,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+47,Australia,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+33,Switzerland,Sometimes,No,Yes,Maybe,No,Yes,Maybe,"No, I don't think they would",Yes
+22,United Kingdom,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+28,United Kingdom,Never,No,I don't know,Yes,Maybe,No,Maybe,"No, I don't think they would",Yes
+31,United Kingdom,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+24,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+56,Australia,Sometimes,No,No,Maybe,No,Yes,"Yes, I think it would","Yes, I think they would",No
+57,Australia,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+39,Spain,Always,No,No,No,No,No,Maybe,Maybe,No
+21,United Kingdom,Never,No,Yes,Yes,No,Yes,"Yes, I think it would","No, I don't think they would",Yes
+31,Russia,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+63,Canada,Always,Yes,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+46,Australia,Always,Yes,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+32,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,United Kingdom,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+34,United Kingdom,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+35,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+31,Norway,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+35,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+36,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+50,United States of America,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+47,United States of America,Never,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+32,Canada,Never,No,No,No,No,No,"Yes, I think it would",Maybe,Yes
+23,Canada,Never,No,Yes,No,Yes,Yes,Maybe,"No, I don't think they would",Yes
+43,Canada,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+26,Canada,Sometimes,No,Yes,Maybe,No,No,Maybe,"No, I don't think they would",No
+26,Canada,Never,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+55,Canada,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+27,Canada,Never,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,Argentina,Always,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+25,India,Never,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+35,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+37,Netherlands,Sometimes,Yes,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+38,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,Canada,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+28,United Kingdom,Always,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+29,United Kingdom,Always,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+40,United States of America,Always,No,Yes,Maybe,Maybe,No,"No, I don't think it would",Maybe,No
+25,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+29,Sweden,Sometimes,Yes,No,Maybe,Maybe,No,"No, I don't think it would",Maybe,No
+29,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",No
+35,Netherlands,Sometimes,No,No,Yes,Yes,Yes,"No, it has not","No, I don't think they would",Yes
+25,United States of America,Sometimes,Yes,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",No
+43,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+26,Ireland,Never,No,No,Maybe,No,No,"No, I don't think it would","No, I don't think they would",No
+31,Germany,Never,No,No,No,Maybe,No,"No, I don't think it would","No, I don't think they would",Yes
+31,United States of America,Always,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+45,United States of America,Always,No,I don't know,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+23,Italy,Never,No,I don't know,No,Maybe,No,"Yes, I think it would",Maybe,No
+39,United States of America,Never,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+27,United States of America,Sometimes,No,Yes,No,No,No,"No, I don't think it would","No, I don't think they would",No
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+36,United States of America,Always,No,No,No,Maybe,No,Maybe,"Yes, I think they would",No
+22,Germany,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+51,United States of America,Never,No,I don't know,Maybe,No,No,"Yes, it has",Maybe,Yes
+39,Denmark,Sometimes,Yes,No,Maybe,Maybe,No,Maybe,Maybe,No
+36,United States of America,Sometimes,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Yes
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+40,United States of America,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+35,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+38,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,United States of America,Always,No,Yes,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+43,Netherlands,Sometimes,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+31,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+45,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+26,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"No, it has not","No, they do not",No
+42,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+28,United States of America,Always,No,No,Yes,No,No,Maybe,"No, I don't think they would",No
+28,United Kingdom,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,United States of America,Sometimes,No,No,Yes,No,Yes,"No, it has not",Maybe,Yes
+28,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+35,United States of America,Sometimes,No,No,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+42,Canada,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+29,United Kingdom,Always,Yes,No,Yes,Maybe,Yes,"No, I don't think it would",Maybe,Yes
+34,Finland,Sometimes,Yes,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Canada,Always,No,Yes,No,No,No,Maybe,Maybe,No
+22,Russia,Sometimes,No,No,Maybe,No,No,Maybe,"No, they do not",No
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+26,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+21,Australia,Never,No,Yes,Maybe,Maybe,No,"No, I don't think it would",Maybe,Yes
+38,Netherlands,Never,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+28,United States of America,Sometimes,No,Yes,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+32,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+24,Australia,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+35,United States of America,Always,No,Yes,Yes,Maybe,Yes,Maybe,"Yes, I think they would",Yes
+41,United States of America,Sometimes,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+38,United States of America,Always,Yes,Yes,No,No,No,Maybe,"Yes, I think they would",Yes
+24,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, it has not",Maybe,Yes
+47,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+26,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+32,United States of America,Always,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+32,United States of America,Sometimes,No,Yes,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+37,United States of America,Always,No,I don't know,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+33,Netherlands,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+28,United Kingdom,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+22,Netherlands,Never,No,No,No,No,No,Maybe,"Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,No,Maybe,"No, I don't think they would",Yes
+42,United States of America,Always,Yes,Yes,Maybe,No,Yes,"No, it has not",Maybe,Yes
+34,United States of America,Never,No,I don't know,No,No,No,"Yes, I think it would","No, I don't think they would",No
+32,United States of America,Sometimes,No,No,Maybe,Maybe,Yes,"Yes, I think it would","No, I don't think they would",Yes
+37,United Kingdom,Always,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+31,United States of America,Always,Yes,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,Colombia,Always,No,I don't know,No,No,No,"Yes, it has",Maybe,No
+30,United States of America,Sometimes,Yes,I don't know,No,Maybe,No,Maybe,Maybe,No
+36,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+38,United States of America,Always,No,Yes,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+24,United States of America,Sometimes,No,No,No,Yes,Yes,Maybe,"No, I don't think they would",Yes
+26,United States of America,Sometimes,No,I don't know,Yes,Yes,No,Maybe,Maybe,No
+37,United States of America,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,United Kingdom,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,Switzerland,Always,Yes,No,Yes,No,Yes,Maybe,Maybe,Yes
+32,Netherlands,Never,No,No,Yes,No,No,"No, I don't think it would",Maybe,Yes
+30,Netherlands,Never,No,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+26,Germany,Always,No,No,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+27,United Kingdom,Never,Yes,Yes,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+27,Netherlands,Always,Yes,I don't know,No,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,Colombia,Always,No,Yes,Yes,Maybe,No,Maybe,Maybe,Yes
+26,Germany,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+30,United States of America,Sometimes,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+40,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,No
+46,United States of America,Sometimes,No,I don't know,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+26,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+30,United States of America,Sometimes,No,I don't know,No,No,No,"Yes, I think it would",Maybe,No
+27,Canada,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+35,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+35,Australia,Always,No,Yes,No,No,No,Maybe,Maybe,No
+29,Netherlands,Never,No,Yes,Yes,Yes,No,Maybe,"Yes, they do",Yes
+34,United Kingdom,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",Yes
+27,United States of America,Sometimes,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+39,United Kingdom,Sometimes,No,No,Maybe,Maybe,No,Maybe,Maybe,No
+27,United Kingdom,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+31,Czech Republic,Sometimes,No,No,Yes,No,Yes,Maybe,"No, I don't think they would",Yes
+26,United Kingdom,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+44,United States of America,Always,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+27,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+57,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,Canada,Sometimes,Yes,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+38,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+55,United States of America,Always,Yes,I don't know,Yes,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+28,Costa Rica,Sometimes,Yes,Yes,Maybe,Maybe,No,"Yes, it has","Yes, they do",Yes
+35,United States of America,Never,No,I don't know,Maybe,Maybe,No,Maybe,"Yes, I think they would",Yes
+26,United States of America,Always,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+22,United States of America,Never,No,No,No,Maybe,No,Maybe,"No, I don't think they would",No
+31,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+31,United Kingdom,Never,No,No,No,No,No,Maybe,"No, I don't think they would",Yes
+40,Germany,Sometimes,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+26,United States of America,Sometimes,No,No,No,Yes,Yes,Maybe,"No, I don't think they would",Yes
+36,United States of America,Sometimes,No,Yes,Yes,Yes,No,"Yes, it has","Yes, they do",Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+24,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+22,Vietnam,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, it has","Yes, they do",No
+33,United States of America,Always,No,Yes,Yes,Maybe,Yes,"No, I don't think it would","No, I don't think they would",Yes
+37,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,United States of America,Always,No,No,Yes,Maybe,No,Maybe,"No, I don't think they would",No
+38,United States of America,Sometimes,No,I don't know,Maybe,No,No,Maybe,Maybe,Yes
+33,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+44,Canada,Always,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+30,United States of America,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+30,United States of America,Never,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+28,United States of America,Sometimes,No,No,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+39,United States of America,Never,No,I don't know,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+24,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+27,Netherlands,Always,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+35,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+23,United States of America,Never,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+37,United States of America,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+35,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+27,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+27,United States of America,Always,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+27,United States of America,Never,No,No,Maybe,No,No,Maybe,"Yes, I think they would",No
+42,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,United States of America,Never,No,Yes,No,No,No,Maybe,Maybe,No
+26,Finland,Sometimes,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+28,Bulgaria,Never,No,No,Maybe,No,No,"Yes, I think it would",Maybe,No
+28,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+32,United States of America,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+43,United States of America,Always,Yes,I don't know,Yes,Yes,No,Maybe,Maybe,No
+34,United States of America,Never,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+61,United States of America,Sometimes,No,No,Maybe,Maybe,No,Maybe,Maybe,Yes
+50,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",No
+38,India,Sometimes,Yes,Yes,Maybe,Yes,Yes,Maybe,Maybe,Yes
+51,Germany,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+38,Ireland,Sometimes,Yes,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+34,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+43,United States of America,Always,No,No,Yes,Maybe,Yes,"Yes, I think it would","No, I don't think they would",Yes
+43,United States of America,Sometimes,No,No,No,Maybe,No,"Yes, I think it would",Maybe,No
+44,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+35,United States of America,Sometimes,No,I don't know,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+50,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+29,United States of America,Sometimes,No,No,Yes,Maybe,Yes,Maybe,Maybe,Yes
+29,United States of America,Never,No,Yes,No,Yes,Yes,"No, it has not","No, they do not",Yes
+36,Canada,Sometimes,No,I don't know,No,No,No,"Yes, I think it would",Maybe,No
+33,Australia,Sometimes,Yes,Yes,Maybe,Maybe,No,"No, I don't think it would",Maybe,No
+50,Australia,Sometimes,Yes,No,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+46,United States of America,Always,No,No,Yes,Maybe,Yes,Maybe,Maybe,Yes
+44,New Zealand,Always,Yes,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+23,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+41,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+31,Canada,Sometimes,No,No,No,Maybe,No,"Yes, I think it would",Maybe,No
+55,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+34,United States of America,Sometimes,No,No,Yes,No,No,"Yes, I think it would","Yes, I think they would",No
+28,United States of America,Always,No,Yes,Yes,Yes,No,"Yes, it has","Yes, they do",Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United States of America,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+33,United States of America,Sometimes,No,Yes,No,Yes,Yes,Maybe,Maybe,Yes
+28,United States of America,Sometimes,Yes,I don't know,No,No,No,Maybe,Maybe,No
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Sometimes,No,Yes,Yes,No,No,"Yes, I think it would",Maybe,Yes
+36,United States of America,Never,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+45,United Kingdom,Sometimes,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+29,Lithuania,Always,Yes,No,No,No,No,Maybe,"No, I don't think they would",No
+23,France,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+54,Canada,Always,Yes,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+61,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+29,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,Australia,Sometimes,No,I don't know,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+37,United States of America,Always,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+29,Germany,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+28,United Kingdom,Always,Yes,No,Yes,No,No,Maybe,"No, I don't think they would",No
+30,United Kingdom,Sometimes,No,No,Yes,Yes,No,Maybe,"No, they do not",Yes
+55,United Kingdom,Always,No,No,Yes,No,Yes,"Yes, it has",Maybe,Yes
+38,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+20,Canada,Sometimes,No,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",No
+25,United States of America,Sometimes,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+22,Spain,Always,Yes,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+35,United Kingdom,Sometimes,Yes,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+27,United States of America,Never,No,I don't know,No,Yes,Yes,Maybe,"No, I don't think they would",Yes
+24,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+39,Australia,Always,Yes,No,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+29,Brazil,Never,No,I don't know,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+40,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Always,No,Yes,Maybe,Maybe,Yes,Maybe,"Yes, I think they would",Yes
+32,Canada,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+34,Germany,Sometimes,Yes,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+35,Canada,Sometimes,No,No,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+30,United States of America,Sometimes,Yes,Yes,Maybe,Maybe,No,"Yes, it has",Maybe,No
+36,United Kingdom,Never,No,Yes,Maybe,No,No,Maybe,Maybe,Yes
+26,Sweden,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+31,Netherlands,Never,No,Yes,Maybe,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,South Africa,Never,No,Yes,No,No,No,Maybe,Maybe,No
+30,United Kingdom,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+46,United Kingdom,Always,No,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+32,United States of America,Sometimes,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+34,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+41,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Always,No,No,No,No,No,Maybe,Maybe,No
+47,United States of America,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,United States of America,Always,No,Yes,No,No,No,Maybe,Maybe,No
+36,United States of America,Sometimes,No,I don't know,No,No,Yes,Maybe,"Yes, I think they would",Yes
+32,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+29,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+22,United Kingdom,Never,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+32,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+19,United States of America,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+30,South Africa,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+32,United States of America,Always,No,Yes,Yes,Maybe,Yes,"No, I don't think it would","No, I don't think they would",Yes
+22,United States of America,Sometimes,No,No,No,No,No,"No, I don't think it would",Maybe,No
+30,Poland,Always,Yes,Yes,No,No,No,"No, I don't think it would","No, they do not",No
+33,Slovakia,Sometimes,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+48,United Kingdom,Never,No,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+45,Germany,Never,No,No,Maybe,No,No,Maybe,Maybe,Yes
+28,United Kingdom,Sometimes,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+44,United States of America,Sometimes,No,Yes,Maybe,No,No,Maybe,"No, I don't think they would",Yes
+31,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+31,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+29,United States of America,Never,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+26,United States of America,Never,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+35,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+44,Austria,Sometimes,Yes,I don't know,Maybe,No,No,Maybe,Maybe,Yes
+45,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+22,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+34,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,"Yes, it has",Maybe,No
+35,United Kingdom,Never,No,I don't know,Maybe,Maybe,No,Maybe,"Yes, I think they would",No
+39,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,Denmark,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+41,United States of America,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+24,Australia,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+24,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+34,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+36,Australia,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+41,Australia,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+21,United States of America,Never,No,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+33,Bangladesh,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,India,Always,No,Yes,No,No,No,Maybe,"No, I don't think they would",Yes
+62,United States of America,Never,No,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+37,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Always,No,I don't know,No,Maybe,No,Maybe,"No, I don't think they would",No
+31,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,Yes
+28,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+48,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+40,Algeria,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+29,Norway,Never,No,No,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+33,Germany,Never,No,I don't know,No,No,No,"Yes, I think it would",Maybe,Yes
+27,Finland,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+24,Australia,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+28,Netherlands,Sometimes,Yes,Yes,Maybe,Yes,Yes,"Yes, I think it would",Maybe,Yes
+42,United States of America,Always,No,Yes,Maybe,Maybe,No,"No, it has not","No, they do not",Yes
+28,United Kingdom,Sometimes,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+40,Canada,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Always,No,Yes,Yes,Maybe,Yes,"Yes, it has","No, I don't think they would",Yes
+33,United States of America,Always,Yes,No,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+40,United States of America,Always,Yes,No,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+38,United Kingdom,Never,No,No,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+34,United States of America,Sometimes,No,Yes,Maybe,Yes,No,"Yes, I think it would","Yes, I think they would",No
+44,Netherlands,Never,No,I don't know,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+54,United Kingdom,Always,Yes,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+24,Pakistan,Always,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+47,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+30,Australia,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,United States of America,Always,Yes,I don't know,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+27,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+29,United States of America,Never,No,No,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+43,United States of America,Sometimes,Yes,No,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+27,Norway,Never,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+29,United Kingdom,Never,No,No,Yes,Yes,Yes,Maybe,"Yes, they do",Yes
+29,United Kingdom,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+42,United States of America,Sometimes,No,I don't know,Maybe,Yes,Yes,Maybe,Maybe,No
+26,United States of America,Always,No,Yes,Yes,No,No,"Yes, I think it would",Maybe,No
+26,Switzerland,Sometimes,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+34,United Kingdom,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+24,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"Yes, I think they would",No
+25,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+22,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+53,United States of America,Always,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+32,Canada,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+32,United States of America,Sometimes,No,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+55,United States of America,Sometimes,Yes,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+27,France,Never,No,No,No,No,No,"Yes, I think it would",Maybe,Yes
+34,United Kingdom,Always,No,I don't know,Maybe,No,No,Maybe,Maybe,No
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+25,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, they do",Yes
+39,United Kingdom,Sometimes,No,Yes,Yes,Maybe,Yes,"No, it has not","No, I don't think they would",Yes
+32,United States of America,Never,No,No,Maybe,Maybe,No,"Yes, I think it would","No, I don't think they would",Yes
+46,United Kingdom,Sometimes,Yes,No,Yes,Maybe,Yes,Maybe,Maybe,Yes
+52,United States of America,Sometimes,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+33,United Kingdom,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+58,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+30,Canada,Never,No,No,No,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+46,Sweden,Sometimes,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+45,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",No
+26,Canada,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+22,United States of America,Never,No,Yes,Maybe,Yes,Yes,"Yes, I think it would",Maybe,Yes
+21,United States of America,Sometimes,No,Yes,Maybe,No,No,Maybe,"No, I don't think they would",No
+34,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+25,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+27,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+25,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United Kingdom,Sometimes,No,I don't know,Maybe,Maybe,Yes,"No, it has not","No, they do not",Yes
+26,Canada,Always,Yes,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+36,United States of America,Always,No,Yes,No,No,No,"Yes, I think it would",Maybe,No
+26,United Kingdom,Never,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,Yes
+34,United States of America,Never,No,I don't know,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+34,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+25,United States of America,Sometimes,No,I don't know,Maybe,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+33,United States of America,Sometimes,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+27,Canada,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+24,Canada,Never,No,No,Maybe,No,No,Maybe,Maybe,Yes
+47,United States of America,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+37,United States of America,Sometimes,No,No,Maybe,No,No,Maybe,Maybe,No
+35,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Always,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+42,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+36,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, they do",Yes
+31,United States of America,Always,No,I don't know,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+28,United States of America,Always,No,I don't know,Maybe,Maybe,Yes,Maybe,"No, I don't think they would",No
+36,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+36,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+32,Canada,Sometimes,No,Yes,Maybe,Maybe,Yes,Maybe,"Yes, I think they would",Yes
+42,United States of America,Always,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+41,United States of America,Never,No,No,Maybe,Maybe,No,Maybe,Maybe,No
+36,Sweden,Sometimes,No,No,No,No,No,"No, I don't think it would",Maybe,No
+23,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+54,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,United States of America,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+36,Netherlands,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+27,United States of America,Never,No,Yes,No,No,No,Maybe,Maybe,No
+32,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+21,Germany,Never,No,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+44,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+33,United States of America,Always,No,I don't know,Yes,Yes,No,Maybe,Maybe,No
+38,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+38,Ireland,Sometimes,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+38,United States of America,Always,Yes,I don't know,No,No,No,"No, I don't think it would","No, I don't think they would",No
+22,Brazil,Always,No,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Sometimes,Yes,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,Canada,Never,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+55,United States of America,Sometimes,Yes,Yes,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+66,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+25,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+22,Netherlands,Never,No,I don't know,No,No,No,Maybe,Maybe,No
+29,Brazil,Sometimes,No,No,No,No,No,"No, I don't think it would",Maybe,No
+33,New Zealand,Never,No,No,Yes,No,No,"Yes, it has","Yes, they do",Yes
+27,Sweden,Never,No,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",No
+44,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,"Yes, it has","Yes, they do",Yes
+38,Bulgaria,Sometimes,Yes,I don't know,Yes,Yes,No,"Yes, I think it would",Maybe,Yes
+32,United States of America,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+59,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+43,Sweden,Sometimes,Yes,I don't know,No,No,No,Maybe,Maybe,No
+55,Germany,Always,Yes,No,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+32,United States of America,Always,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+41,United Kingdom,Never,No,I don't know,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+38,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+46,United States of America,Sometimes,Yes,No,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+43,United Kingdom,Never,No,Yes,Yes,No,Yes,"Yes, I think it would","No, I don't think they would",Yes
+29,United States of America,Always,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+42,United States of America,Always,Yes,I don't know,Maybe,No,No,Maybe,Maybe,No
+25,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+49,Afghanistan,Never,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, they do",No
+36,Pakistan,Always,No,Yes,No,Yes,Yes,Maybe,Maybe,Yes
+30,United Kingdom,Always,Yes,No,Yes,No,No,"Yes, I think it would",Maybe,No
+28,United States of America,Sometimes,No,Yes,No,No,No,"No, I don't think it would",Maybe,No
+37,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Sometimes,No,Yes,Maybe,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+37,United Kingdom,Sometimes,Yes,Yes,No,No,No,Maybe,Maybe,No
+42,Netherlands,Always,Yes,No,Maybe,Yes,Yes,"Yes, it has",Maybe,Yes
+32,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+28,Canada,Always,No,I don't know,No,Maybe,No,Maybe,Maybe,No
+28,United Kingdom,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,United States of America,Always,No,No,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",No
+31,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+46,United States of America,Never,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+19,United States of America,Sometimes,Yes,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+35,Sweden,Always,No,I don't know,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+31,United Kingdom,Sometimes,No,I don't know,Maybe,No,No,"No, I don't think it would","No, I don't think they would",No
+31,United States of America,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+37,Canada,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+34,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+39,United States of America,Sometimes,No,Yes,Yes,No,Yes,"No, I don't think it would",Maybe,Yes
+29,United States of America,Always,Yes,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+29,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+63,United States of America,Sometimes,No,Yes,Yes,No,No,Maybe,Maybe,Yes
+45,Australia,Never,Yes,No,Maybe,Yes,Yes,Maybe,Maybe,Yes
+35,Greece,Always,Yes,I don't know,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+32,United Kingdom,Always,Yes,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+44,United States of America,Always,Yes,I don't know,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+28,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+39,Ireland,Sometimes,Yes,No,Maybe,Maybe,No,Maybe,"Yes, I think they would",Yes
+55,United States of America,Sometimes,Yes,Yes,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Sometimes,Yes,Yes,Maybe,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+19,India,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+40,United States of America,Always,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+49,United States of America,Sometimes,No,Yes,Maybe,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+27,Australia,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+39,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+35,United Kingdom,Never,No,No,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+35,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+42,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+35,Canada,Sometimes,No,No,No,No,No,"No, I don't think it would",Maybe,No
+31,United States of America,Sometimes,No,I don't know,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+44,United Kingdom,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+39,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,Yes
+32,Canada,Always,Yes,I don't know,No,No,No,Maybe,Maybe,No
+45,New Zealand,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+31,United States of America,Sometimes,Yes,No,No,No,No,"Yes, I think it would","No, I don't think they would",Yes
+47,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United States of America,Sometimes,No,Yes,Maybe,No,No,Maybe,Maybe,Yes
+20,United States of America,Always,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+34,United States of America,Never,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+33,United Kingdom,Never,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+56,United States of America,Always,Yes,Yes,Maybe,Maybe,No,Maybe,"Yes, I think they would",Yes
+35,Canada,Sometimes,Yes,Yes,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",No
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+36,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+30,United States of America,Always,No,Yes,No,Yes,No,Maybe,Maybe,No
+44,United States of America,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+46,United States of America,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+33,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+45,Australia,Sometimes,Yes,No,Yes,Maybe,Yes,"Yes, it has",Maybe,Yes
+26,United States of America,Sometimes,No,I don't know,Yes,Yes,No,"No, I don't think it would","No, I don't think they would",Yes
+32,United States of America,Always,Yes,No,No,No,No,Maybe,Maybe,No
+28,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+44,United States of America,Sometimes,Yes,No,Yes,No,No,Maybe,"No, I don't think they would",No
+42,United Kingdom,Always,Yes,Yes,Maybe,Maybe,No,"Yes, it has","No, I don't think they would",No
+30,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+28,United States of America,Sometimes,No,Yes,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,Canada,Always,No,Yes,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+29,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+33,United States of America,Sometimes,No,No,Maybe,Maybe,No,Maybe,"Yes, I think they would",No
+43,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+28,Australia,Always,No,No,No,Maybe,No,Maybe,"No, I don't think they would",No
+42,United Kingdom,Always,Yes,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+38,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+30,United States of America,Sometimes,No,No,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+51,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+48,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+39,New Zealand,Always,Yes,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+28,Australia,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+37,United States of America,Always,No,Yes,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+33,United States of America,Sometimes,No,I don't know,Yes,No,No,"Yes, I think it would",Maybe,Yes
+21,Australia,Never,No,No,No,Yes,No,"Yes, it has","Yes, I think they would",Yes
+25,United States of America,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+40,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+30,Canada,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,Romania,Always,Yes,I don't know,No,Maybe,No,"Yes, I think it would",Maybe,No
+25,India,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+38,Germany,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+24,United Kingdom,Never,No,Yes,No,Maybe,No,"No, I don't think it would",Maybe,Yes
+23,United Kingdom,Never,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+39,United Kingdom,Always,Yes,Yes,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+26,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+43,United Kingdom,Never,No,No,No,No,No,Maybe,"Yes, I think they would",No
+30,New Zealand,Always,No,Yes,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+35,Other,Always,Yes,No,Maybe,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+40,United Kingdom,Sometimes,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+33,United Kingdom,Never,No,Yes,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+35,Brunei,Sometimes,Yes,No,No,Maybe,No,"No, I don't think it would","No, I don't think they would",Yes
+22,United Kingdom,Never,No,I don't know,No,No,No,"Yes, I think it would",Maybe,No
+28,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Always,No,I don't know,No,No,No,"No, I don't think it would","No, I don't think they would",No
+25,United Kingdom,Always,Yes,No,No,No,No,"No, I don't think it would",Maybe,No
+37,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+41,France,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,No
+42,United States of America,Sometimes,No,Yes,Yes,No,No,"No, I don't think it would",Maybe,No
+52,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+30,Romania,Always,No,No,No,No,No,Maybe,Maybe,No
+35,United States of America,Sometimes,No,I don't know,Yes,Yes,No,Maybe,Maybe,Yes
+24,United States of America,Sometimes,No,No,Yes,No,Yes,"Yes, I think it would","No, I don't think they would",Yes
+39,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,Maybe,No
+34,United States of America,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+32,United States of America,Always,Yes,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+25,United Kingdom,Sometimes,Yes,Yes,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+43,Poland,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+39,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",Yes
+35,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",No
+34,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+38,United Kingdom,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+26,United States of America,Always,No,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+24,Bulgaria,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+27,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+25,United States of America,Never,No,No,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+37,United States of America,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+33,Canada,Sometimes,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+34,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,Canada,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+50,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+54,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,Canada,Sometimes,No,I don't know,Yes,No,Yes,"Yes, I think it would","No, they do not",Yes
+39,Canada,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+36,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+34,Canada,Sometimes,No,No,Maybe,No,No,Maybe,"No, I don't think they would",No
+31,United States of America,Sometimes,No,Yes,Yes,Maybe,No,Maybe,"No, I don't think they would",Yes
+36,United States of America,Never,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+48,United States of America,Sometimes,No,I don't know,No,No,No,"Yes, I think it would",Maybe,No
+31,United States of America,Never,No,Yes,Yes,Maybe,Yes,Maybe,"Yes, they do",Yes
+32,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+32,United States of America,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+31,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+28,United States of America,Sometimes,No,Yes,No,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+28,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+33,United States of America,Never,Yes,Yes,Yes,No,Yes,Maybe,"No, I don't think they would",Yes
+59,United States of America,Always,Yes,No,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+33,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+37,United States of America,Always,No,I don't know,Maybe,Maybe,Yes,Maybe,Maybe,Yes
+27,Germany,Always,No,No,Yes,No,Yes,"Yes, it has",Maybe,Yes
+39,United States of America,Always,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+50,Germany,Sometimes,Yes,Yes,Yes,No,No,Maybe,"No, I don't think they would",No
+34,United States of America,Never,No,I don't know,No,No,No,Maybe,Maybe,No
+50,Germany,Sometimes,Yes,No,No,Maybe,No,"No, I don't think it would",Maybe,No
+31,Other,Always,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+39,United States of America,Sometimes,No,Yes,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",No
+46,United States of America,Sometimes,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+28,United States of America,Sometimes,No,No,No,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+32,France,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+65,United States of America,Sometimes,Yes,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+37,United States of America,Always,Yes,Yes,Yes,Maybe,Yes,"No, I don't think it would",Maybe,Yes
+41,United States of America,Sometimes,Yes,I don't know,Maybe,No,No,Maybe,"No, I don't think they would",Yes
+38,United States of America,Sometimes,Yes,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+51,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, it has","No, they do not",Yes
+29,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,"Yes, I think it would",Maybe,Yes
+37,Japan,Always,Yes,No,No,No,No,Maybe,Maybe,Yes
+31,Canada,Always,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+32,Iran,Sometimes,No,Yes,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+31,Sweden,Sometimes,Yes,I don't know,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+52,Switzerland,Never,No,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",Yes
+31,Switzerland,Sometimes,Yes,Yes,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+38,United Kingdom,Always,Yes,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+35,United States of America,Never,No,I don't know,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,United States of America,Always,Yes,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",No
+63,United States of America,Always,Yes,No,No,No,No,Maybe,Maybe,Yes
+47,United States of America,Always,Yes,No,Yes,Yes,Yes,Maybe,"Yes, they do",Yes
+43,Austria,Always,Yes,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+38,Ireland,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+27,United States of America,Never,No,No,Maybe,Maybe,No,"No, I don't think it would",Maybe,No
+40,United States of America,Always,No,Yes,Yes,Yes,No,"Yes, it has","No, I don't think they would",No
+32,South Africa,Never,No,No,Maybe,No,No,"Yes, I think it would","Yes, I think they would",No
+43,United States of America,Always,Yes,No,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+28,Germany,Never,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+46,United Kingdom,Always,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+42,United States of America,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+31,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+37,United States of America,Never,Yes,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+35,Canada,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+30,United States of America,Always,Yes,No,No,Maybe,No,Maybe,Maybe,Yes
+35,Australia,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+24,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+23,India,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+39,France,Always,Yes,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+38,France,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+28,United Kingdom,Always,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+30,United Kingdom,Sometimes,Yes,No,Maybe,No,No,Maybe,Maybe,No
+38,United Kingdom,Always,Yes,No,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+33,France,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+35,United Kingdom,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+54,United Kingdom,Never,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+30,Germany,Never,No,I don't know,No,No,No,Maybe,Maybe,No
+32,United Kingdom,Always,Yes,I don't know,No,No,No,Maybe,"No, I don't think they would",Yes
+28,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+39,Germany,Sometimes,No,I don't know,Yes,No,Yes,"Yes, I think it would",Maybe,No
+21,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+31,Germany,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+30,United States of America,Sometimes,No,No,No,Maybe,No,Maybe,Maybe,No
+25,United States of America,Sometimes,No,No,No,No,No,Maybe,"Yes, I think they would",No
+26,United Kingdom,Always,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+30,United States of America,Never,No,No,Maybe,No,No,Maybe,"No, I don't think they would",No
+30,Italy,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+31,Bulgaria,Always,No,No,No,No,No,Maybe,Maybe,No
+32,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+45,United Kingdom,Always,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+29,Switzerland,Sometimes,Yes,Yes,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+27,United States of America,Always,No,Yes,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+28,United Kingdom,Always,No,I don't know,Yes,Yes,No,"Yes, I think it would",Maybe,No
+38,United States of America,Always,No,Yes,No,No,No,"No, I don't think it would",Maybe,No
+38,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+34,Hungary,Sometimes,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+36,Netherlands,Sometimes,Yes,I don't know,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,France,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+40,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, it has",Maybe,Yes
+39,United States of America,Always,Yes,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,United States of America,Never,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+33,United States of America,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+32,United States of America,Always,Yes,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+32,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",No
+27,United States of America,Never,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+33,Israel,Never,No,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+34,Japan,Never,No,Yes,No,No,No,"Yes, I think it would",Maybe,No
+38,India,Sometimes,Yes,I don't know,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,United States of America,Never,No,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",No
+39,United States of America,Sometimes,No,No,Maybe,No,No,Maybe,Maybe,No
+35,United States of America,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+34,United States of America,Sometimes,No,No,No,Yes,No,Maybe,Maybe,No
+44,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+42,United States of America,Always,No,No,Yes,No,No,"No, I don't think it would","No, I don't think they would",Yes
+30,United States of America,Always,No,No,No,No,No,"Yes, I think it would",Maybe,No
+55,United States of America,Never,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+46,United States of America,Sometimes,No,Yes,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, they do not",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+30,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+31,United States of America,Never,No,I don't know,Maybe,Maybe,No,"Yes, it has",Maybe,Yes
+38,Ireland,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+30,United Kingdom,Sometimes,No,Yes,No,No,No,"No, I don't think it would","Yes, I think they would",No
+32,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+32,United Kingdom,Never,No,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+47,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+39,United Kingdom,Always,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+35,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+36,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+38,United States of America,Always,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+30,United States of America,Sometimes,No,I don't know,Yes,Maybe,No,"Yes, I think it would",Maybe,Yes
+33,United States of America,Sometimes,No,Yes,Maybe,No,No,Maybe,Maybe,Yes
+22,United States of America,Never,No,Yes,Yes,Yes,No,Maybe,Maybe,No
+35,United States of America,Always,Yes,No,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Never,No,I don't know,No,No,No,"No, I don't think it would","No, I don't think they would",Yes
+34,United States of America,Always,No,No,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",Yes
+40,United States of America,Sometimes,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+37,Bulgaria,Always,No,No,Maybe,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+43,Switzerland,Sometimes,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+20,United States of America,Sometimes,Yes,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+32,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+35,United States of America,Always,No,No,No,No,No,Maybe,Maybe,No
+29,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+29,United States of America,Never,No,I don't know,Yes,Maybe,No,"No, I don't think it would","No, I don't think they would",No
+30,United States of America,Always,No,I don't know,No,No,No,Maybe,Maybe,No
+30,United States of America,Never,No,Yes,Maybe,Yes,No,"Yes, I think it would","Yes, I think they would",No
+38,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+30,Brazil,Never,No,Yes,Yes,Maybe,No,Maybe,Maybe,Yes
+26,Netherlands,Never,No,Yes,No,Yes,Yes,Maybe,"No, I don't think they would",No
+27,Germany,Always,Yes,No,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+24,United States of America,Always,No,No,No,No,No,Maybe,Maybe,No
+35,United States of America,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+38,Sweden,Sometimes,No,No,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+36,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,United Kingdom,Always,Yes,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+35,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+25,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+32,Sweden,Never,No,No,Yes,Maybe,Yes,"No, it has not",Maybe,Yes
+32,United States of America,Never,No,Yes,No,No,No,"Yes, I think it would",Maybe,No
+37,United States of America,Sometimes,Yes,Yes,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+28,Germany,Sometimes,No,No,Yes,Maybe,No,Maybe,Maybe,Yes
+34,United Kingdom,Sometimes,No,I don't know,Maybe,No,No,Maybe,Maybe,Yes
+40,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+45,United States of America,Never,No,I don't know,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,Sweden,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+47,United Kingdom,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+48,United Kingdom,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+44,United States of America,Sometimes,Yes,Yes,Yes,Yes,No,Maybe,Maybe,No
+29,United States of America,Never,No,Yes,Maybe,Maybe,Yes,"Yes, it has","Yes, I think they would",Yes
+52,United States of America,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+34,Sweden,Sometimes,No,No,Yes,No,No,"No, I don't think it would","No, I don't think they would",No
+34,Netherlands,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+27,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+30,Russia,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,"Yes, they do",No
+40,United Kingdom,Sometimes,No,Yes,Yes,Maybe,No,"No, it has not","No, they do not",No
+26,Canada,Always,Yes,Yes,Yes,Yes,No,Maybe,Maybe,No
+36,United Kingdom,Never,Yes,Yes,No,No,No,Maybe,"No, I don't think they would",Yes
+35,United Kingdom,Always,No,Yes,Yes,Yes,No,"Yes, it has","No, I don't think they would",No
+43,United Kingdom,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+36,United Kingdom,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+32,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+36,Ireland,Always,Yes,No,No,No,No,Maybe,Maybe,No
+38,New Zealand,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,United States of America,Always,No,No,Yes,Maybe,No,Maybe,Maybe,Yes
+35,Australia,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+45,United States of America,Always,No,Yes,No,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+47,New Zealand,Always,Yes,No,Maybe,No,No,Maybe,Maybe,No
+27,United States of America,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+26,United States of America,Sometimes,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+51,Australia,Always,Yes,No,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+25,Ecuador,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+41,South Africa,Sometimes,No,No,Maybe,Maybe,No,"Yes, it has",Maybe,No
+34,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+43,Sweden,Never,No,Yes,No,No,No,Maybe,Maybe,No
+33,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+37,Australia,Sometimes,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+27,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+54,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+38,Italy,Never,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+42,Germany,Sometimes,No,I don't know,Yes,No,Yes,Maybe,Maybe,Yes
+30,United Kingdom,Sometimes,No,No,Maybe,No,No,"No, I don't think it would","No, I don't think they would",No
+43,Australia,Sometimes,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+33,Netherlands,Never,Yes,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+37,Australia,Always,No,Yes,No,No,No,"Yes, I think it would",Maybe,No
+25,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+27,Australia,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,Canada,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,United States of America,Never,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,Germany,Sometimes,Yes,No,No,Maybe,No,Maybe,Maybe,No
+24,United Kingdom,Never,No,No,Yes,Maybe,No,Maybe,Maybe,No
+31,Switzerland,Never,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+31,Germany,Sometimes,No,No,Maybe,Maybe,No,Maybe,Maybe,No
+32,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+33,Australia,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, they do",Yes
+56,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+43,United States of America,Sometimes,No,Yes,Yes,Maybe,No,"Yes, it has","Yes, they do",Yes
+49,Australia,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+35,Bulgaria,Sometimes,No,No,Maybe,No,No,"Yes, I think it would",Maybe,Yes
+53,Canada,Sometimes,No,No,Yes,No,Yes,"Yes, I think it would","No, I don't think they would",Yes
+45,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+40,United States of America,Sometimes,No,I don't know,No,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+52,United States of America,Sometimes,No,Yes,Yes,No,No,"Yes, I think it would","Yes, I think they would",Yes
+30,France,Always,Yes,I don't know,Yes,Maybe,Yes,"No, I don't think it would","No, I don't think they would",Yes
+41,New Zealand,Always,No,No,Yes,No,Yes,Maybe,"No, I don't think they would",No
+31,Netherlands,Always,Yes,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+31,Switzerland,Sometimes,No,I don't know,No,Maybe,No,Maybe,Maybe,Yes
+24,United States of America,Sometimes,Yes,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+44,Australia,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+37,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+22,Brazil,Always,No,Yes,No,Yes,Yes,"Yes, I think it would","No, I don't think they would",No
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+36,Bulgaria,Sometimes,No,I don't know,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+28,Romania,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+25,United States of America,Sometimes,No,Yes,No,No,No,"No, I don't think it would","No, I don't think they would",No
+49,United States of America,Always,Yes,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",Yes
+22,United States of America,Always,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+43,United States of America,Sometimes,Yes,No,Yes,Yes,Yes,Maybe,Maybe,Yes
+33,United States of America,Never,Yes,Yes,Maybe,Maybe,Yes,"Yes, it has","Yes, I think they would",Yes
+36,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+43,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+21,United States of America,Sometimes,Yes,Yes,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+39,Australia,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would",Maybe,No
+46,United Kingdom,Sometimes,No,I don't know,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United Kingdom,Sometimes,No,Yes,Yes,No,No,Maybe,Maybe,No
+31,United Kingdom,Sometimes,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+39,Germany,Sometimes,Yes,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+44,Sweden,Sometimes,No,I don't know,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+36,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+31,United Kingdom,Never,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+30,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+36,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+31,United States of America,Sometimes,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+23,Canada,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+23,Canada,Always,No,I don't know,No,Yes,Yes,Maybe,Maybe,No
+30,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+34,Canada,Always,Yes,I don't know,No,No,No,Maybe,Maybe,Yes
+49,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+25,Bosnia and Herzegovina,Never,No,I don't know,No,Maybe,No,"Yes, I think it would","No, I don't think they would",No
+39,United Kingdom,Sometimes,No,No,Maybe,Maybe,No,Maybe,Maybe,No
+37,Germany,Never,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+26,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+41,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Netherlands,Never,No,No,No,No,No,"No, I don't think it would",Maybe,No
+33,Sweden,Sometimes,No,I don't know,Yes,Maybe,Yes,"No, I don't think it would",Maybe,Yes
+74,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,Yes
+28,Netherlands,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+47,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+25,Bosnia and Herzegovina,Never,No,I don't know,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+51,United States of America,Never,No,Yes,Yes,No,Yes,Maybe,Maybe,Yes
+26,United States of America,Never,No,No,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+24,United States of America,Never,No,Yes,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+33,United States of America,Always,Yes,I don't know,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+32,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+57,United States of America,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+39,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+38,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+33,Finland,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",No
+30,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+25,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+40,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+46,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+42,Ireland,Never,Yes,Yes,Maybe,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would",Maybe,No
+26,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+29,Austria,Never,No,No,Yes,Maybe,Yes,Maybe,Maybe,Yes
+31,United States of America,Never,No,Yes,Yes,Yes,Yes,"No, it has not","No, they do not",Yes
+40,United States of America,Always,No,I don't know,Yes,No,Yes,Maybe,Maybe,Yes
+39,United States of America,Always,No,I don't know,Maybe,Yes,Yes,Maybe,Maybe,Yes
+37,United States of America,Sometimes,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+27,United States of America,Always,No,No,No,No,No,Maybe,Maybe,No
+45,United States of America,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+47,United States of America,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+33,United States of America,Always,No,No,No,No,No,"No, I don't think it would",Maybe,No
+32,United States of America,Always,No,No,No,No,No,"Yes, I think it would",Maybe,No
+29,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+36,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+35,United States of America,Never,No,I don't know,No,No,No,"Yes, I think it would","Yes, I think they would",No
+40,United States of America,Always,No,Yes,Maybe,No,No,Maybe,Maybe,No
+36,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+39,United States of America,Sometimes,No,I don't know,Maybe,No,No,"Yes, I think it would","Yes, I think they would",Yes
+38,United States of America,Always,No,No,No,Maybe,No,Maybe,"No, I don't think they would",No
+23,United States of America,Sometimes,No,I don't know,Maybe,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+29,United States of America,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+38,United States of America,Always,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+34,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+28,Brazil,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+38,New Zealand,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","No, I don't think they would",Yes
+25,United States of America,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would",Maybe,Yes
+36,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+57,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+46,Ireland,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+49,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+34,United States of America,Never,No,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+43,United Kingdom,Sometimes,No,No,No,No,No,Maybe,"No, I don't think they would",No
+35,Ireland,Sometimes,Yes,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",No
+32,United States of America,Always,Yes,No,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+24,Sweden,Sometimes,No,I don't know,No,Yes,No,"No, I don't think it would",Maybe,Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Finland,Never,No,Yes,No,Maybe,No,"No, I don't think it would","No, they do not",No
+48,Germany,Sometimes,No,Yes,No,Maybe,Yes,"Yes, I think it would","Yes, I think they would",No
+33,United States of America,Always,No,I don't know,Yes,Yes,Yes,Maybe,"Yes, they do",Yes
+40,Italy,Never,No,No,No,No,No,"Yes, I think it would",Maybe,No
+22,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+22,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+33,Germany,Never,No,Yes,Yes,No,Yes,"No, I don't think it would","No, I don't think they would",Yes
+29,Netherlands,Never,No,I don't know,Yes,Maybe,Yes,"Yes, I think it would","No, I don't think they would",Yes
+32,United States of America,Always,No,No,No,Yes,Yes,"No, it has not","No, they do not",Yes
+43,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+49,United States of America,Sometimes,No,Yes,Yes,Yes,No,Maybe,"No, they do not",Yes
+44,Italy,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+29,United States of America,Always,Yes,Yes,Yes,Yes,No,Maybe,Maybe,Yes
+27,Canada,Never,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+30,United States of America,Never,No,No,No,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+43,United States of America,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+30,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+27,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+26,United States of America,Never,No,Yes,Yes,Yes,No,"Yes, I think it would",Maybe,Yes
+47,Ireland,Sometimes,No,Yes,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Never,No,I don't know,Yes,Yes,No,"No, I don't think it would","No, I don't think they would",No
+39,United States of America,Never,No,Yes,No,No,No,Maybe,"Yes, I think they would",No
+36,United States of America,Never,No,No,Maybe,Maybe,No,"Yes, I think it would",Maybe,No
+34,United Kingdom,Always,No,Yes,Yes,No,No,"No, I don't think it would","No, I don't think they would",Yes
+25,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Finland,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+38,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+39,United States of America,Always,No,No,No,No,No,"No, I don't think it would",Maybe,No
+32,United States of America,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+27,United States of America,Never,No,Yes,Yes,Yes,No,"Yes, I think it would",Maybe,Yes
+31,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+30,United Kingdom,Never,No,No,Yes,Maybe,No,"Yes, I think it would",Maybe,No
+34,United Kingdom,Sometimes,Yes,I don't know,No,No,No,Maybe,Maybe,No
+26,United States of America,Always,No,Yes,Maybe,Maybe,No,"Yes, I think it would",Maybe,No
+27,United Kingdom,Always,No,No,Yes,No,Yes,"Yes, it has",Maybe,Yes
+29,United States of America,Never,No,No,Yes,Yes,No,Maybe,"No, I don't think they would",Yes
+37,Canada,Always,Yes,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+49,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+39,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+42,China,Sometimes,Yes,No,No,No,No,Maybe,Maybe,No
+28,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+33,United States of America,Always,Yes,I don't know,No,Yes,No,"Yes, it has",Maybe,Yes
+30,United Kingdom,Sometimes,Yes,Yes,Maybe,No,No,"Yes, I think it would","Yes, I think they would",Yes
+70,United States of America,Always,No,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+25,Germany,Sometimes,No,Yes,Maybe,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+45,United Kingdom,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+63,United States of America,Never,No,I don't know,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+40,United States of America,Always,No,Yes,Maybe,Yes,No,"No, it has not",Maybe,Yes
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+31,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+34,United States of America,Never,No,I don't know,Yes,Yes,No,"Yes, it has","Yes, I think they would",No
+44,United Kingdom,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+45,Ireland,Always,No,No,No,Maybe,No,Maybe,Maybe,No
+43,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+29,United States of America,Always,No,Yes,No,No,No,Maybe,Maybe,No
+27,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, they do",Yes
+37,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+41,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"Yes, they do",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+28,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+39,Switzerland,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+22,United Kingdom,Sometimes,No,Yes,Yes,Yes,No,Maybe,"No, I don't think they would",Yes
+31,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+29,United Kingdom,Never,No,I don't know,No,No,No,Maybe,Maybe,No
+33,Israel,Never,No,No,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+37,Germany,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",Yes
+42,United States of America,Always,No,No,No,Maybe,No,Maybe,Maybe,No
+31,United Kingdom,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+34,United States of America,Always,Yes,Yes,Maybe,Yes,Yes,"Yes, it has",Maybe,Yes
+49,United States of America,Always,Yes,I don't know,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+29,Canada,Never,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+40,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+46,Netherlands,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+31,United States of America,Always,Yes,Yes,Maybe,No,Yes,Maybe,Maybe,Yes
+43,Denmark,Sometimes,No,No,Maybe,Maybe,No,Maybe,"No, I don't think they would",No
+45,Germany,Sometimes,Yes,Yes,No,No,No,"Yes, I think it would",Maybe,No
+32,United Kingdom,Sometimes,No,No,Maybe,Maybe,No,"Yes, it has","Yes, they do",No
+38,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,"Yes, I think they would",Yes
+40,Netherlands,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+38,Germany,Never,No,I don't know,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+32,United Kingdom,Never,No,I don't know,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+37,Mexico,Sometimes,No,No,Yes,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+24,Sweden,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+25,United States of America,Always,Yes,Yes,Maybe,Maybe,No,"Yes, I think it would",Maybe,Yes
+24,United States of America,Sometimes,No,Yes,No,No,No,Maybe,"No, I don't think they would",No
+34,United States of America,Sometimes,No,Yes,No,No,No,Maybe,Maybe,Yes
+55,United States of America,Always,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+32,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,Romania,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+20,United States of America,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+41,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,Maybe,Maybe,No
+33,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would",Maybe,Yes
+25,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","No, I don't think they would",Yes
+29,United Kingdom,Sometimes,Yes,I don't know,Maybe,No,No,Maybe,Maybe,No
+24,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+39,United States of America,Sometimes,No,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",No
+39,United Kingdom,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+44,United Kingdom,Sometimes,Yes,I don't know,Maybe,No,No,"No, I don't think it would","No, I don't think they would",Yes
+30,Netherlands,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+31,Denmark,Sometimes,No,Yes,No,No,No,Maybe,Maybe,No
+37,United Kingdom,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+42,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+35,Canada,Always,Yes,I don't know,Maybe,Maybe,No,Maybe,"Yes, I think they would",No
+30,United States of America,Never,No,Yes,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+30,Canada,Always,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+33,United States of America,Sometimes,No,Yes,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+31,United States of America,Never,No,I don't know,No,Maybe,No,Maybe,Maybe,Yes
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+27,Germany,Never,No,No,No,No,No,"Yes, it has","No, I don't think they would",No
+34,United Kingdom,Sometimes,Yes,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+31,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+30,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+20,Canada,Never,No,I don't know,Maybe,Maybe,No,"Yes, I think it would","No, I don't think they would",No
+39,United States of America,Never,Yes,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+50,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+22,United States of America,Never,No,Yes,No,Yes,No,"Yes, it has","Yes, they do",No
+41,Spain,Sometimes,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,Yes
+37,Germany,Sometimes,No,No,No,Maybe,No,Maybe,Maybe,No
+32,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,Austria,Always,Yes,Yes,Yes,Maybe,Yes,Maybe,Maybe,Yes
+38,Netherlands,Never,No,Yes,Maybe,Yes,No,Maybe,"No, they do not",No
+21,United Kingdom,Always,Yes,Yes,No,Maybe,No,Maybe,Maybe,No
+27,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+37,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+45,United Kingdom,Always,Yes,I don't know,Yes,Maybe,No,"Yes, it has","Yes, they do",Yes
+26,United States of America,Sometimes,Yes,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+30,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+21,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+21,United States of America,Sometimes,No,I don't know,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+29,Germany,Sometimes,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+46,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+28,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+26,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+37,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+44,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+45,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,United States of America,Always,No,I don't know,No,No,No,Maybe,Maybe,Yes
+39,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+37,United States of America,Sometimes,No,No,Yes,No,Yes,"Yes, I think it would",Maybe,Yes
+35,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+49,United States of America,Never,Yes,I don't know,Yes,No,Yes,"Yes, I think it would","Yes, I think they would",Yes
+21,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+26,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+35,Germany,Never,No,Yes,Maybe,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+56,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, it has not","No, I don't think they would",Yes
+53,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, it has","Yes, I think they would",Yes
+48,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, they do",Yes
+24,United Kingdom,Never,No,No,No,No,No,"Yes, I think it would","No, I don't think they would",No
+37,Ireland,Never,No,No,Yes,Yes,No,"Yes, it has",Maybe,No
+27,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+39,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+31,Finland,Sometimes,Yes,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+34,United States of America,Always,No,Yes,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+33,United Kingdom,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+22,United Kingdom,Never,No,I don't know,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",No
+25,United Kingdom,Sometimes,No,I don't know,No,No,No,Maybe,Maybe,No
+34,United Kingdom,Never,No,No,No,No,No,Maybe,"No, I don't think they would",No
+30,United Kingdom,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","Yes, I think they would",No
+37,United Kingdom,Never,No,I don't know,Yes,Maybe,Yes,Maybe,Maybe,Yes
+26,Chile,Never,No,No,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",No
+29,United States of America,Never,No,No,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+29,Chile,Sometimes,No,I don't know,No,No,No,Maybe,"Yes, they do",Yes
+27,United Kingdom,Never,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+27,Chile,Sometimes,No,Yes,Yes,No,Yes,"Yes, it has",Maybe,Yes
+23,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+24,United States of America,Sometimes,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+22,Guatemala,Sometimes,Yes,I don't know,Yes,Yes,Yes,"No, I don't think it would","Yes, they do",No
+28,United Kingdom,Never,No,No,Maybe,No,No,Maybe,"No, they do not",No
+22,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,United States of America,Sometimes,No,Yes,Maybe,Maybe,No,"Yes, I think it would","No, I don't think they would",No
+35,United States of America,Always,No,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+26,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+31,United Kingdom,Sometimes,No,I don't know,No,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,"No, they do not",Yes
+37,Pakistan,Sometimes,No,I don't know,Yes,Maybe,Yes,"Yes, it has","Yes, I think they would",Yes
+24,United Kingdom,Never,No,No,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+33,United States of America,Always,No,No,No,No,No,"No, I don't think it would","No, I don't think they would",No
+28,United States of America,Sometimes,No,I don't know,No,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+22,United States of America,Sometimes,No,I don't know,Maybe,Maybe,No,"No, I don't think it would","No, I don't think they would",Yes
+46,Germany,Sometimes,No,Yes,Yes,Maybe,Yes,Maybe,"No, I don't think they would",Yes
+30,United States of America,Always,No,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+29,United States of America,Never,No,No,No,Yes,Yes,Maybe,Maybe,Yes
+22,United States of America,Sometimes,No,Yes,No,Yes,No,Maybe,"No, I don't think they would",No
+24,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,Taiwan,Always,Yes,No,Yes,Yes,No,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, it has","Yes, I think they would",Yes
+25,United States of America,Always,Yes,Yes,Maybe,Maybe,No,Maybe,Maybe,Yes
+39,United States of America,Sometimes,No,No,No,No,No,Maybe,"Yes, I think they would",No
+31,Serbia,Always,Yes,No,Maybe,No,No,"Yes, I think it would","No, I don't think they would",Yes
+25,United States of America,Sometimes,Yes,Yes,Yes,Yes,Yes,"No, it has not","No, I don't think they would",Yes
+39,United States of America,Sometimes,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+31,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+35,United States of America,Sometimes,No,Yes,Yes,Maybe,No,Maybe,Maybe,No
+31,United States of America,Always,Yes,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+28,France,Sometimes,No,Yes,No,No,No,"Yes, I think it would","Yes, I think they would",No
+23,Ireland,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+26,United States of America,Never,No,Yes,Maybe,Yes,Yes,Maybe,Maybe,Yes
+24,United States of America,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+32,United States of America,Never,No,No,No,No,No,Maybe,Maybe,No
+35,United States of America,Always,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,Estonia,Sometimes,No,No,Yes,Maybe,No,Maybe,Maybe,No
+32,United States of America,Sometimes,No,No,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+35,United States of America,Never,No,No,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+26,United States of America,Always,No,I don't know,Maybe,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United States of America,Never,No,I don't know,Yes,Maybe,No,"Yes, I think it would",Maybe,Yes
+39,Canada,Always,No,No,No,No,No,Maybe,"No, I don't think they would",No
+37,United Kingdom,Never,No,Yes,Yes,Maybe,Yes,"Yes, it has","Yes, they do",Yes
+35,United States of America,Sometimes,No,No,No,No,No,"Yes, I think it would","Yes, I think they would",No
+25,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+22,United States of America,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+33,United Kingdom,Never,No,Yes,Yes,Maybe,Yes,"Yes, I think it would","Yes, I think they would",Yes
+23,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+29,Brazil,Sometimes,Yes,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+28,United States of America,Always,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+30,United States of America,Never,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, I don't think they would",Yes
+28,United States of America,Sometimes,No,Yes,Maybe,Yes,Yes,Maybe,"No, I don't think they would",Yes
+28,United States of America,Always,No,Yes,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+37,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+30,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",No
+27,India,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","No, I don't think they would",Yes
+29,Canada,Sometimes,Yes,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+28,Poland,Never,No,I don't know,Yes,Maybe,Yes,"Yes, I think it would",Maybe,Yes
+26,Ireland,Sometimes,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+29,Afghanistan,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+34,Germany,Sometimes,Yes,No,No,No,No,"Yes, I think it would",Maybe,No
+36,United Kingdom,Always,No,I don't know,No,Yes,Yes,Maybe,Maybe,Yes
+38,Belgium,Never,No,No,Maybe,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+22,United States of America,Sometimes,No,No,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+24,United States of America,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+24,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,"No, I don't think it would","No, they do not",Yes
+36,United States of America,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would",Maybe,Yes
+24,United States of America,Never,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+24,United States of America,Never,No,No,No,No,No,Maybe,Maybe,No
+31,Netherlands,Never,No,Yes,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+39,United Kingdom,Never,No,No,Yes,Yes,Yes,"Yes, I think it would",Maybe,No
+41,United States of America,Sometimes,No,Yes,Yes,Yes,Yes,Maybe,Maybe,Yes
+29,United Kingdom,Always,Yes,I don't know,Maybe,Maybe,No,Maybe,Maybe,No
+37,Estonia,Never,No,I don't know,No,No,No,Maybe,"No, I don't think they would",No
+30,Canada,Always,No,No,No,No,No,"Yes, I think it would",Maybe,No
+24,Canada,Sometimes,No,No,No,No,No,Maybe,Maybe,No
+22,Canada,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, I think it would","Yes, I think they would",Yes
+24,Canada,Sometimes,No,I don't know,Maybe,Maybe,No,"Yes, I think it would",Maybe,No
+26,Canada,Sometimes,No,I don't know,Yes,Yes,Yes,"Yes, it has",Maybe,Yes
+38,United States of America,Always,No,Yes,Yes,Yes,Yes,Maybe,"No, I don't think they would",Yes
+34,United States of America,Sometimes,Yes,Yes,No,No,No,Maybe,Maybe,Yes
+56,United States of America,Sometimes,Yes,Yes,No,No,Yes,"No, it has not","Yes, I think they would",No
+52,United States of America,Sometimes,No,Yes,Yes,Maybe,Yes,"Yes, it has","No, I don't think they would",Yes
+30,United States of America,Sometimes,No,Yes,Maybe,Yes,Yes,"No, I don't think it would","No, I don't think they would",No
+25,Canada,Sometimes,No,I don't know,Yes,Yes,No,"Yes, I think it would","No, I don't think they would",No
